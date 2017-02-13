@@ -1,9 +1,9 @@
 ## gulp工作流
-1 npm install（安装gulp任务的依赖包）
-2 如果添加新的gulp任务依赖包 比如：npm install gulp-less --save-dev
-3 gulpfile.js文件包含了一些常用任务，可随项目需要添加其他任取
-4 命令行gulp taskname执行单个任务(任务名和gulpfile文件中任务名对应)
-5 命令行gulp server开始一个项目
+1. npm install（安装gulp任务的依赖包）
+2. 如果添加新的gulp任务依赖包 比如：npm install gulp-less --save-dev
+3. gulpfile.js文件包含了一些常用任务，可随项目需要添加其他任取
+4. 命令行gulp taskname执行单个任务(任务名和gulpfile文件中任务名对应)
+5. 命令行gulp server开始一个项目
 
 ## 基本使用
 - [globs匹配语法](https://github.com/isaacs/node-glob)
