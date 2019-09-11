@@ -1,6 +1,6 @@
 var gulp = require('gulp');
 var gulpSequence = require('gulp-sequence');
-
+// add some
 // image
 var imagemin = require('gulp-imagemin');
 var spritesmith = require('gulp.spritesmith');
