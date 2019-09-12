@@ -1,4 +1,4 @@
-### 系列文章总结
+### 系列文章
 
 [Gulp系列文章-入门Gulp](https://www.86886.wang/detail/5b77ecb019a76030242c2e5b)
 
